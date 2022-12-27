@@ -1,4 +1,4 @@
-## Hi! I'm there, I'm 
+## Hi! I'm there, I'm 🤙🏼
 
 ## Bio
 * **I'm a New Yorker
