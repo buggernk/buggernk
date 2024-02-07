@@ -11,6 +11,7 @@ public class Lab3 {
             centigrade = (5f / 9f) * (fahrenheit - 32f);
             System.out.println(fahrenheit + " fahrenheit is " + centigrade + " centigrade.");
         }
+
         System.out.println("\nUsing while loop.");
         while (fahrenheitt <= 40.0f) {
             centigradeee = (5f / 9f) * (fahrenheitt - 32f);
